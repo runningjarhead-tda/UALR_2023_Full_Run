@@ -2,7 +2,7 @@
 # FINAL PRODUCTION SCRIPT (All parts active, corrected Scree Plot)
 
 # ================== 1. IMPORTS and SETUP ==================
-%matplotlib inline
+#%matplotlib inline
 import os, re, sys, json, time, warnings
 from pathlib import Path
 import numpy as np
